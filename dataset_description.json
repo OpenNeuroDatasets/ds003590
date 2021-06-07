@@ -13,7 +13,7 @@
         "Bruce Fischl",
         "Eugenio Iglesias"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003590.v1.0.0",
+    "DatasetDOI": "10.18112/openneuro.ds003590.v1.0.1",
     "HowToAcknowledge": "Casamitjana, Adri\u00e0, et al. \"Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas.\" arXiv preprint arXiv:2104.14873 (2021).",
     "Funding": [
         "This work was primarily funded by the European Research Council (Starting Grant 677697, project \\BUNGEE-TOOLS\").",
