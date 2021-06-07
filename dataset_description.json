@@ -28,5 +28,8 @@
         "Wellcome/EPSRC Centre for Medical En1015 gineering [WT203148/Z/16/Z; NS/A000049/1]",
         "Alzheimer's Research UK (ARUK-IRG2019A-003)",
         "NIH (1RF1MH123195-01, 1R01AG070988-01)"
+    ],
+    "ReferencesAndLinks": [
+        "Code: https://github.com/acasamitjana/3dhirest"
     ]
 }
